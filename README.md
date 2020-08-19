@@ -2,6 +2,8 @@
 
 O projeto do site Caravan foi construindo fazendo o uso de: Bootstrap 4, Html, Css e Sass/Scss..
 
+Responsivo para desktop e mobile.
+
 Fruto da realização do curso junto a plataforma da Origamid.
  
  
