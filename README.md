@@ -6,7 +6,7 @@ O projeto Caravan foi desenvolvido para portfólio durante um dos cursos da plat
 Tecnologias:
 
 Bootstrap 4,       Html, 
-Css,                Sass/Scss
+Css,                Sass/Scss,
 Responsivo(mobile)
 
  
