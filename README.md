@@ -1,10 +1,13 @@
 # Caravan
 
-O projeto do site Caravan foi construindo fazendo o uso de: Bootstrap 4, Html, Css e Sass/Scss..
+O projeto Caravan foi desenvolvido para portfólio durante um dos cursos da plataforma Origamid.
 
-Responsivo para desktop e mobile.
 
-Fruto da realização do curso junto a plataforma da Origamid.
+Tecnologias:
+
+Bootstrap 4        Html
+Css                Sass/Scss
+Responsivo(mobile)
+
  
- 
- Caravan é um site com foco em agência de viagens, que inclui adesão a planos e programação de viagem.
+ Caravan é um site com foco em agência de viagens, seu propósito é fornecer informações dos serviços prestados, planos e programação de viagem.
